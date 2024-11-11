@@ -17,10 +17,6 @@ pymongo==4.9.1
 # HBase connection
 happybase==1.2.0
 
-# Jupyter Notebook for interactive analysis
-jupyterlab>=3.6.4
-notebook>=7.2.2
-
 # Use the following command line to install all the dependencies
 # pip install -r requirements.txt
 
