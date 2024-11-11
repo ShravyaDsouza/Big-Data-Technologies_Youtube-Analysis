@@ -18,7 +18,7 @@ pymongo==4.9.1
 happybase==1.2.0
 
 # Jupyter Notebook for interactive analysis
-jupyter==1.0.0
+jupyterlab>=3.6.4
 notebook==7.0.8
 
 # Use the following command line to install all the dependencies
