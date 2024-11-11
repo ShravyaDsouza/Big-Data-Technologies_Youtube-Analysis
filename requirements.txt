@@ -1,0 +1,28 @@
+# Data manipulation
+pandas==2.0.3
+numpy==1.24.3
+dask==2023.6.0
+
+# Data visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.9.0
+
+# Spark (PySpark)
+pyspark==3.5.3
+
+# MongoDB
+pymongo==4.9.1
+
+# HBase connection
+happybase==1.2.0
+
+# Jupyter Notebook for interactive analysis
+jupyter==1.0.0
+notebook==7.0.8
+
+# Use the following command line to install all the dependencies
+# pip install -r requirements.txt
+
+# Check versions for pandas, numpy, dask, matplotlib, seaborn, plotly, pyspark, pymongo, happybase, jupyter, notebook, scipy, and scikit-learn
+#python -m pip show pandas numpy dask matplotlib seaborn plotly pyspark pymongo happybase jupyter notebook scipy scikit-learn
